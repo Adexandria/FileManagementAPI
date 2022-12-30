@@ -1,0 +1,12 @@
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\bin\Debug\net6.0\FileManagement.Authentication.deps.json
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\bin\Debug\net6.0\FileManagement.Authentication.dll
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\bin\Debug\net6.0\FileManagement.Authentication.pdb
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\FileManagement.Authentication.csproj.AssemblyReference.cache
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\FileManagement.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\FileManagement.Authentication.AssemblyInfoInputs.cache
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\FileManagement.Authentication.AssemblyInfo.cs
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\FileManagement.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\FileManagement.Authentication.dll
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\refint\FileManagement.Authentication.dll
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\FileManagement.Authentication.pdb
+C:\Users\T14\Documents\Local Git\FileManagementAPI\Authentication\FileManagement.Authentication\obj\Debug\net6.0\ref\FileManagement.Authentication.dll

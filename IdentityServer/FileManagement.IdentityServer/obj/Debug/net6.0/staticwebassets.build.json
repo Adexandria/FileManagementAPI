@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ncqzuGakgcWkXFhteeffRdCp4o/fOGdPYpE6EU8aB7s=",
+  "Source": "FileManagement.IdentityServer",
+  "BasePath": "_content/FileManagement.IdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
